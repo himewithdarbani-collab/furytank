@@ -1,24 +1,27 @@
 [
   {
-    "title": "Tesla Model S Plaid",
-    "price": "$129,990",
-    "category": "Electric",
+    "title": "Tesla Model S تێسلا",
+    "price": "$59 دۆلار",
+    "category": "ئەلیکترۆنی",
     "image_url": "https://hips.hearstapps.com/hmg-prod/images/2026-tesla-model-s-plaid-134-68f6610846819.jpg?crop=0.769xw:0.578xh;0.172xw,0.285xh&resize=1200:*",
-    "description": "the Tesla Model S Plaid is a high-performance luxury electric sedan featuring a 1,020-horsepower tri-motor all-wheel-drive system, delivering 0–60 mph acceleration in 1.99 seconds. "
+    "description": "خێرایەکەی بەرزئەکرێتەوە بۆ %300 بەرەوسەر و ئەم پارچانە بەردەستە بۆفرۆشتن ",
+    "desc2": "پارچەی یەدەگی ئەسڵی RDX2019🔴"
   },
   {
-    "title": "Mercedes AMG GT",
-    "price": "$118,600",
-    "category": "Sport",
+    "title": "Mercedes AMG GT مارسیدس",
+    "price": "$118 دۆلار",
+    "category": "پێشپڕکێ",
     "image_url": "https://s.yimg.com/ny/api/res/1.2/WeegKL41rG0jly0W7OlLGg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/twautos.carnews.com/c1db872b640236909f9223ca6b6bedd0",
-     "description": "The Tesla Model S Plaid is a high-performance luxury electric sedan featuring a 1,020-horsepower tri-motor all-wheel-drive system, delivering 0–60 mph acceleration in 1.99 seconds. "
+    "description": "مارسیدس ئۆتۆمبێلی خەونەکان لای ئێمە بەجیاواز لە ئۆتۆمبێلەکانی دیکه خێرایەکی بێ سنوری بۆ زیادکراوە بەڕێژەی %350 و زیاتر",
+    "desc2": "پارچەی ئاسڵی 2029🔵"
 
   },
   {
-    "title": "Range Rover Sport",
-    "price": "$83,000",
-    "category": "SUV",
+    "title": "Range Rover ئۆتۆمبێلی پێشبڕکێ",
+    "price": "$83 دۆلار",
+    "category": "تایبەت",
     "image_url": "https://offers.mena.jlr.reffine.com//rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjY5MiwicHVyIjoiYmxvYl9pZCJ9fQ==--c9a3907727dd411d774a57abeb33d40cdbac8053/L461%20Ramadan%20Perfomance%20Marketing%202026%20Image%204_1280x720.jpg",
-    "description": "The Tesla Model S Plaid is a high-performance luxury electric sedan featuring a 1,020-horsepower tri-motor all-wheel-drive system,"
+    "description": "ڕانج ڕۆڤەر بەخێرایەکی تایبەت و بەشێوەیەکی دیبلۆمانسی و کەشخە بۆ ڕێژەی  لە %280 بەبێ هیچ کێشەیەک",
+    "desc2": "پارچەی ئەمریکی بۆ ڕانج بەردەستە 🔴"
   }
 ]
