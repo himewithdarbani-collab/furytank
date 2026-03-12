@@ -3,14 +3,14 @@
     "title": "Tesla Model S Plaid",
     "price": "$129,990",
     "category": "Electric",
-    "image_url": "https://images.unsplash.com/photo-1617788138017-80ad40651399?w=500&q=80",
+    "image_url": "https://hips.hearstapps.com/hmg-prod/images/2026-tesla-model-s-plaid-134-68f6610846819.jpg?crop=0.769xw:0.578xh;0.172xw,0.285xh&resize=1200:*",
     "description": "the Tesla Model S Plaid is a high-performance luxury electric sedan featuring a 1,020-horsepower tri-motor all-wheel-drive system, delivering 0–60 mph acceleration in 1.99 seconds. "
   },
   {
     "title": "Mercedes AMG GT",
     "price": "$118,600",
     "category": "Sport",
-    "image_url": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?w=500&q=80",
+    "image_url": "https://s.yimg.com/ny/api/res/1.2/WeegKL41rG0jly0W7OlLGg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/twautos.carnews.com/c1db872b640236909f9223ca6b6bedd0",
      "description": "The Tesla Model S Plaid is a high-performance luxury electric sedan featuring a 1,020-horsepower tri-motor all-wheel-drive system, delivering 0–60 mph acceleration in 1.99 seconds. "
 
   },
@@ -18,7 +18,7 @@
     "title": "Range Rover Sport",
     "price": "$83,000",
     "category": "SUV",
-    "image_url": "https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=500&q=80",
+    "image_url": "https://offers.mena.jlr.reffine.com//rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjY5MiwicHVyIjoiYmxvYl9pZCJ9fQ==--c9a3907727dd411d774a57abeb33d40cdbac8053/L461%20Ramadan%20Perfomance%20Marketing%202026%20Image%204_1280x720.jpg",
     "description": "The Tesla Model S Plaid is a high-performance luxury electric sedan featuring a 1,020-horsepower tri-motor all-wheel-drive system,"
   }
 ]
