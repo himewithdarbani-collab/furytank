@@ -1,16 +1,9 @@
 [
   {
-    "name": "Laptop",
-    "price": "$950",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTky6xir2t6JlTi05nTq-JwzC_XsNqgzRhJ8Q&s",
-    "description": "High performance laptop",
-    "category": "Laptop"
-  },
-  {
-    "name": "Smart Watch",
-    "price": "$200",
-    "image": "https://mcsolution.com.bd/wp-content/uploads/2023/03/Microsoft-Surface-Laptop-Go-2-8QC-MC-Solution-BD.webp",
-    "description": "Latest smart watch",
-    "category": "Watch"
+    "image": "https://s.alicdn.com/@sc04/kf/H9ded1a5bb7f845be8a09b951f16f01b4L.png_300x300.jpg",
+    "name": "Tesla",
+    "price": "$50000",
+    "description": "Electric car",
+    "category": "Car"
   }
 ]
