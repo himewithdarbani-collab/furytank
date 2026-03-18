@@ -1,26 +1,30 @@
 [
   {
-    "title": "Trombel Sport Pro",
+    "title": "Trombel Sport Pro 2026",
     "price": "$120.00",
     "image": "https://www.zaniary.com/ariaApp/zaniary/files/du/art_article/60afe55110496.jpg",
     "desc": "High-performance sport trombel with reinforced edges and aerodynamic design."
+    "is_new": true
   },
   {
     "title": "Classic Wood Edition",
     "price": "$85.00",
     "image": "https://www.zaniary.com/ariaApp/zaniary/files/du/art_article/60afe55110496.jpg",
     "desc": "Hand-crafted wooden trombel, perfect for traditional shop displays."
+    "is_new": false
   },
   {
     "title": "Metal Gear Trombel",
     "price": "$150.00",
     "image": "https://www.zaniary.com/ariaApp/zaniary/files/du/art_article/60afe55110496.jpg",
     "desc": "Industrial grade metal trombel built for heavy-duty daily use."
+    "is_new": false
   },
   {
     "title": "Compact Shop Item",
     "price": "$45.00",
     "image": "https://www.zaniary.com/ariaApp/zaniary/files/du/art_article/60afe55110496.jpg",
     "desc": "Small, portable trombel ideal for tight spaces and quick setups."
+    "is_new": true
   }
 ]
