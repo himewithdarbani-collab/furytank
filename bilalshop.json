@@ -1,0 +1,42 @@
+[
+  {
+    "title": "تۆیۆتا کامری 2024",
+    "price": "$28 گەڵا",
+    "image": "https://static.thairath.co.th/media/Dtbezn3nNUxytg04avc8nbhtb9YGO1O4xJ08hOHPIN5GMG.jpg",
+    "description": "دەتوانی ئۆتۆمبێلەکەت بهێنیت و خێرایەکەی زیادبکەیت و دەنگی ئەکسۆزەکەت بگۆڕیت بۆ PopCorn.",
+    "is_new": true,
+    "category": "hamar"
+  },
+    {
+    "title": "نیسان پیکاپ 2002 زۆر پاک",
+    "price": "$30 گەڵا",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThWUw3Bfl_gYttt9h26M9xWpOf2y_eft7XsIUooU46h_OfaIT3IOcSPK4&s=10",
+    "description": "ڕین و پستۆن و هەموو پارچەیەکی یەدەگی ئەسڵی بەردەستە لە بیلال شۆپ.",
+    "is_new": false,
+    "category": "nissan"
+  },
+  {
+    "title": "مستەر بۆشی مۆدێلی نوێ 2017",
+    "price": "$45 گەڵا",
+    "image": "https://i.pinimg.com/736x/52/d5/40/52d54023451584cdbdf90cb6ecf10433.jpg",
+    "description": "خوێن بەڕێگەی %99 و بێ شوخت پارچەکانی لامان دەست دەکەوێت",
+    "is_new": false,
+    "category": "nissan"
+  },
+    {
+    "title": "نیسان زێت 2007",
+    "price": "$80 گەڵا",
+    "image": "https://hips.hearstapps.com/hmg-prod/amv-prod-cad-assets/wp-content/uploads/2016/12/1969-Fairlady-Z.jpg",
+    "description": "پارچەکانی ئێستا لە بیلال شۆپ دەست دەکەوێت.",
+    "is_new": false,
+    "category": "nissan"
+  },
+  {
+    "title": "ڕانج ڕۆڤەری سپۆڕت",
+    "price": "$130 گەڵا",
+    "image": "https://media.cdn-jaguarlandrover.com/api/v2/images/115111/w/725.jpg",
+    "description": "ڕانج ڕۆڤەری بێ شۆخت کامل عەشیا.",
+    "is_new": false,
+    "category": "2Tani"
+  }
+]
